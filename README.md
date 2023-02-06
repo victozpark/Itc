@@ -5,7 +5,7 @@ Topic-based inter-thread communication
 Currently under development. <br>
 There may be bugs. And it will have more functions later.
 
-## Basic feature
+## Basic features
 - Topic-based data communication. (send, request, reply message)
     > - Send message : It sends a message to all Listeners listening on the topic.
     > - Reqeust message : It sends a message to one of Listeners listening on the topic and wait for a response-message to arrive.
@@ -14,10 +14,10 @@ There may be bugs. And it will have more functions later.
 
 ## UML class diagram
 #### Itc module
-<img src='https://user-images.githubusercontent.com/46546765/216922493-78c7a9a6-89bd-4850-a16b-8f47d00214b2.png' width="40%">
+<img src="https://user-images.githubusercontent.com/46546765/216922493-78c7a9a6-89bd-4850-a16b-8f47d00214b2.png" width="40%">
 
 #### Sample user module
-<img src='https://user-images.githubusercontent.com/46546765/216922500-a65a9440-2e53-411c-9bc7-5e5436cb460c.png' width="40%">
+<img src="https://user-images.githubusercontent.com/46546765/216966461-ed6b0477-dc07-4050-a39f-97580eab377c.png" width="40%">
 
 ----
 
