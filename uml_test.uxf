@@ -2,9 +2,9 @@
 group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>275</y><w>130</w><h>30</h></coordinates><panel_attributes>MyService
 group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>110</x><y>275</y><w>130</w><h>30</h></coordinates><panel_attributes>MyTTT
 
-group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>85</y><w>130</w><h>30</h></coordinates><panel_attributes>ItsMessageInfo
-group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>110</x><y>85</y><w>130</w><h>30</h></coordinates><panel_attributes>ItsObject
-group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>410</x><y>85</y><w>130</w><h>30</h></coordinates><panel_attributes>ItsListenerService
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>85</y><w>130</w><h>30</h></coordinates><panel_attributes>ItcMessageInfo
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>110</x><y>85</y><w>130</w><h>30</h></coordinates><panel_attributes>ItcObject
+group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>410</x><y>85</y><w>130</w><h>30</h></coordinates><panel_attributes>ItcListenerService
 group=group-0</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>105</y><w>170</w><h>190</h></coordinates><panel_attributes>lt=&lt;&lt;-
 group=group-0</panel_attributes><additional_attributes>150;10;10;170</additional_attributes></element><element><id>Relation</id><coordinates><x>310</x><y>105</y><w>30</w><h>190</h></coordinates><panel_attributes>lt=&lt;-
 group=group-0</panel_attributes><additional_attributes>10;10;10;170</additional_attributes></element><element><id>Relation</id><coordinates><x>200</x><y>105</y><w>130</w><h>190</h></coordinates><panel_attributes>lt=&lt;-
