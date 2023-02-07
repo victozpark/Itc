@@ -32,6 +32,8 @@
 *.app
 
 # ETC
+.vscode/*
+
 release/*
 build/*
 test/build/*
