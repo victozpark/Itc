@@ -38,9 +38,10 @@ auto ItcListener::initialize() -> void
 	m_sclConditionQueue = std::make_shared<ItcConditionQueue<std::shared_ptr<ItcMessage>>>();
 
 	for (auto it=m_vecTopic.begin(); it!=m_vecTopic.end(); it++) {
-		m_sclItc->getCtx()->addTopicQueue(*it, m_sclConditionQueue);
-	}
+		m_sclItc->getCtx()->addTopicQueue(*it, m_sclConditionQueue); // Add Condition queue to ItcCtx
 
+		m_sclListenerService->addListeningTopic(*it); // Add listening topics to ListenerService
+	}
 }
 
 /**
